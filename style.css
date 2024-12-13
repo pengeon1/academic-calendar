@@ -22,7 +22,7 @@ body {
 }
 
 .wrapper {
-  background: #1e1e1e;
+  background: #121212;
   border-radius: 10px;
   box-shadow: 0 15px 40px rgba(0, 0, 0, 0.12);
   width: 100%;
@@ -69,6 +69,7 @@ header .icons span:hover {
 
 .calendar {
   padding: 20px;
+  background: #1e1e1e;
   overflow-x: hidden;
 }
 
