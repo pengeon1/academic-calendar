@@ -210,6 +210,6 @@ header .icons span:hover {
   }
 
   .calendar .days li {
-    font-size: calc(var(--base-font-size) * 0.5);
+    font-size: calc(var(--base-font-size) * 0.4);
   }
 }
