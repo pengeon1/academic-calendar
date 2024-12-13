@@ -16,7 +16,7 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: #161616;
+  background: #1e1e1e;
   padding: 10px;
   font-size: var(--base-font-size);
 }
