@@ -32,7 +32,7 @@ body {
 
 .wrapper header {
   border-radius: 10px 10px 0 0;
-  background-color: #009879;
+  background-color: #6c0cfe;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -64,7 +64,7 @@ header .icons span {
 }
 
 header .icons span:hover {
-  background: #00876cc7;
+  background: #5202ca9f;
 }
 
 .calendar {
@@ -83,7 +83,7 @@ header .icons span:hover {
 .calendar .weeks li {
   text-align: center;
   font-weight: 500;
-  background: #00987a;
+  background: #6c0cfe;
   color: white;
   padding: 10px 0;
   margin-bottom: 15px;
@@ -119,7 +119,7 @@ header .icons span:hover {
 
 .days li.active {
   font-weight: bolder;
-  background-color: #009879;
+  background-color: #6c0cfe;
   color: #ffffff;
 }
 
